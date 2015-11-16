@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://faisyl.github.io
+title: roroi cilre
+tagline: 404 Not Found
+description: Things I've learnt about
+paginate: 5
